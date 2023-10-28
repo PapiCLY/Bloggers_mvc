@@ -43,4 +43,4 @@ The following animation demonstrates the application functionality:
 ![Alt text](public/images/Animation.gif)
 
 # Deployed Heroku application
-https://bloggers-0ae17cd37a1b.herokuapp.com/
+https://bloggers-9aae707f7cc7.herokuapp.com/
